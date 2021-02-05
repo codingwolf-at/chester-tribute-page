@@ -35,7 +35,7 @@ body {
 }
 
 #img-div img {
-    width: 80%;
+    max-width: 80%;
     height: auto;
     margin: 2rem auto 0rem auto;
 }
